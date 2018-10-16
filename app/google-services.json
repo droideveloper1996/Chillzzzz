@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "1033073066666",
+    "firebase_url": "https://chillzzzz-a206c.firebaseio.com",
+    "project_id": "chillzzzz-a206c",
+    "storage_bucket": "chillzzzz-a206c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1033073066666:android:6b7198c3f7affdcd",
+        "android_client_info": {
+          "package_name": "com.capiyoo.chillzzzz"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1033073066666-0pgtp4fpb5a93puv6gbgsq4k5s4e4s5r.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.capiyoo.chillzzzz",
+            "certificate_hash": "5ea7e15bb04ec3afd458bd83ff64d4feb82576a7"
+          }
+        },
+        {
+          "client_id": "1033073066666-3a2vs506i40tm3qauvt5aiergtg30rod.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC7F49zAtKMRzdy_lo815Ulm4y_q1AH7cs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1033073066666-3a2vs506i40tm3qauvt5aiergtg30rod.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
